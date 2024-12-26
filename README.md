@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Wu Ming Hsien (Jerry)
+# Hi there 👋, I'm Wu Ming Hsien (Jerry)
 
 - 🔭 I’m currently working on
   - Conducting research on LLM, MLLM, DigitalTwin.

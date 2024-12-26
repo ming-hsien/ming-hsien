@@ -4,7 +4,7 @@
   - Conducting research on LLM, MLLM, DigitalTwin.
   - Contributor to the Linux Foundation project free5GC's SMF.
   - Programming Teacher at Public and Bilingual Schools.
-  - 
+
 - 🌱 Learning
   -  I'm currently studying for my master's degree in computer science at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/nycu/ch/index)
 

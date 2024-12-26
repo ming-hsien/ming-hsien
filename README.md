@@ -1,17 +1,17 @@
-## Hi there 👋
+## Hi there 👋, I'm Wu Ming Hsien (Jerry)
+
+- 🔭 I’m currently working on
+  - Conducting research on LLM, MLLM, DigitalTwin.
+  - Contributor to the Linux Foundation project free5GC's SMF.
+  - Programming Teacher at Public and Bilingual Schools.
+  - 
+- 🌱 Learning
+  -  I'm currently studying for my master's degree in computer science at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/nycu/ch/index)
+
+- 📫 How to reach me
+  - Gmail : [w2bc8860@gmail.com](w2bc8860@gmail.com)
+  - Linkedin : [wuminghsien](www.linkedin.com/in/wuminghsien)
 
 <!--
-**ming-hsien/ming-hsien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Hsien's GitHub stats](https://github-readme-stats-orpin-tau-98.vercel.app/api?username=ming-hsien&show_icons=true&theme=transparent)-->
+![Hsien's GitHub stats](https://github-readme-stats-orpin-tau-98.vercel.app/api?username=ming-hsien&show_icons=true&theme=transparent)
+-->

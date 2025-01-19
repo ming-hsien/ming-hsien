@@ -13,5 +13,5 @@
   - Linkedin : [wuminghsien](www.linkedin.com/in/wuminghsien)
 
 
-![Hsien's GitHub stats](https://github-readme-stats-orpin-tau-98.vercel.app/api?username=ming-hsien&show_icons=true&theme=transparent)
+[![Hsien's Top Langs](https://github-readme-stats-orpin-tau-98.vercel.app/api/top-langs?username=ming-hsien)](https://github.com/ming-hsien/github-readme-stats)
 

@@ -12,6 +12,6 @@
   - Gmail : [w2bc8860@gmail.com](w2bc8860@gmail.com)
   - Linkedin : [wuminghsien](www.linkedin.com/in/wuminghsien)
 
-<!--
+
 ![Hsien's GitHub stats](https://github-readme-stats-orpin-tau-98.vercel.app/api?username=ming-hsien&show_icons=true&theme=transparent)
--->
+

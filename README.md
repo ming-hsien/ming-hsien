@@ -13,5 +13,5 @@
   - Linkedin : [wuminghsien](https://www.linkedin.com/in/wuminghsien)
 
 
-[![Hsien's Top Langs](https://github-readme-stats-orpin-tau-98.vercel.app/api/top-langs?username=ming-hsien&layout=compact)](https://github.com/ming-hsien/github-readme-stats)
+<!--[![Hsien's Top Langs](https://github-readme-stats-orpin-tau-98.vercel.app/api/top-langs?username=ming-hsien&layout=compact)](https://github.com/ming-hsien/github-readme-stats)-->
 
